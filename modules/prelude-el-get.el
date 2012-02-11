@@ -10,7 +10,7 @@
 
 (setq el-get-sources
       '(el-get
-	cedet
+        cedet
         auto-complete
         auto-complete-clang
         auto-complete-ruby
@@ -19,8 +19,9 @@
         clojure-mode
         coffee-mode 
         deft
+        distel
         full-ack
-	haml-mode
+        haml-mode
         haskell-mode
         inf-ruby
         gist
@@ -47,6 +48,7 @@
         smooth-scrolling
         sudo-save
         wikipedia-mode
+        workgroups
         yaml-mode
         yari
         (:name magit
